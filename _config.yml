@@ -1,0 +1,28 @@
+name: Shane Peters
+favicon: null
+layout_spectrum: 0.6383601427078247
+typography_spectrum: 0.695273396326229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7868335859384388
+  lightness: 0.7458099734503776
+  saturation: 0.2928251479752362
+  rhythmicContrast: 0.8376798441167921
+purpose: []
