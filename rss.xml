@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Shane Peters]]></title>
         <description><![CDATA[Shane Peters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shane-peters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 16:37:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 13:48:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shane-peters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/shane-peters/468aa909-2338-4812-bf34-280cb60a5fe5/index.html</link>
+            <guid isPermaLink="false">468aa909-2338-4812-bf34-280cb60a5fe5</guid>
+            <pubDate>Thu, 24 Dec 2015 13:48:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Shane Peters, Director of Photography</p>]]></description>
-            <link>undefined745c962e-aa4d-425f-8b4e-f53da3ee2c16/index.html</link>
+            <link>https://thegrid.ai/shane-peters/745c962e-aa4d-425f-8b4e-f53da3ee2c16/index.html</link>
             <guid isPermaLink="false">745c962e-aa4d-425f-8b4e-f53da3ee2c16</guid>
             <pubDate>Tue, 22 Dec 2015 16:37:55 GMT</pubDate>
         </item>
