@@ -4,7 +4,7 @@
         <description><![CDATA[Shane Peters, DP]]></description>
         <link>https://thegrid.ai/shane-peters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 12:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 12:41:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shane-peters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Cape :30]]></title>
@@ -19,6 +19,13 @@
             <link>https://vimeo.com/user1699220/videos/page:2/sort:date</link>
             <guid isPermaLink="false">04536490-679f-4643-846c-20773302a296</guid>
             <pubDate>Sat, 20 Feb 2016 12:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal Island]]></title>
+            <description><![CDATA[<article><h1>Royal Island</h1><p>This is "Royal Island" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2ac974f15474f4db4b42bb4a7e4ffd4285a5e9d.jpg"></article>]]></description>
+            <link>https://vimeo.com/10372110</link>
+            <guid isPermaLink="false">96863ff4-90f3-4f15-abf3-86ff51b80450</guid>
+            <pubDate>Sat, 20 Feb 2016 12:40:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/63875969</link>
             <guid isPermaLink="false">b08c5cd2-a203-4447-b584-5cd134385dc8</guid>
             <pubDate>Sat, 20 Feb 2016 12:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arizona "Don't Have The Body"]]></title>
-            <description><![CDATA[<article><h1>Arizona "Don't Have The Body"</h1><p>A music video for Arizona, directed by Hobey Ford and Shane Peters</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbdc54fe7ec529fbb770c6acefa3d8a0e70f7898.jpg"></article>]]></description>
-            <link>https://vimeo.com/15746791</link>
-            <guid isPermaLink="false">2120a3ec-e184-4582-a2f9-56a7f28098f5</guid>
-            <pubDate>Sat, 20 Feb 2016 05:28:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
