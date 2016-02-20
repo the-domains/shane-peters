@@ -4,7 +4,7 @@
         <description><![CDATA[Shane Peters, DP]]></description>
         <link>https://thegrid.ai/shane-peters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 12:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 12:41:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shane-peters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Cape :30]]></title>
@@ -19,6 +19,13 @@
             <link>https://vimeo.com/user1699220/videos/page:2/sort:date</link>
             <guid isPermaLink="false">04536490-679f-4643-846c-20773302a296</guid>
             <pubDate>Sat, 20 Feb 2016 12:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time of My Life]]></title>
+            <description><![CDATA[<article><h1>Time of My Life</h1><p>Starring and written by Tom Chalmers, this short film tells the story about an average man who finds his daily joy at his average job.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7726f3f1e7f45ae2a4ca4d5832cd7d3f90805617.jpg"></article>]]></description>
+            <link>https://vimeo.com/10379246</link>
+            <guid isPermaLink="false">50775c93-0dcd-4455-9515-21a3860b090c</guid>
+            <pubDate>Sat, 20 Feb 2016 12:40:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Royal Island]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/10432058</link>
             <guid isPermaLink="false">f7987e61-c220-4c5a-88a0-6781ac8546ad</guid>
             <pubDate>Sat, 20 Feb 2016 12:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dawes Teaser]]></title>
-            <description><![CDATA[<article><h1>Dawes Teaser</h1><p>Qprime, a music management company from NY hired me spend a month at Echo Mountain Studios with the LA rock band DAWES, during the recording of their latest album, Stories Don't Tell. Principal photography was performed on a mixture of lo-fi and high quality cameras and lenses to create a loose, behind the scenes feel of the recording session.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47070a394dd81db24ba4675043ee2e0e2fc0bb49.jpg"></article>]]></description>
-            <link>https://vimeo.com/63875969</link>
-            <guid isPermaLink="false">b08c5cd2-a203-4447-b584-5cd134385dc8</guid>
-            <pubDate>Sat, 20 Feb 2016 12:15:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
