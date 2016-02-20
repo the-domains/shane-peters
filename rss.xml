@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shane Peters, DP]]></title>
+        <description><![CDATA[Shane Peters, DP]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 05:30:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arizona "Don't Have The Body"]]></title>
+            <description><![CDATA[<article><h1>Arizona "Don't Have The Body"</h1><p>A music video for Arizona, directed by Hobey Ford and Shane Peters</p></article>]]></description>
+            <link>https://vimeo.com/15746791</link>
+            <guid isPermaLink="false">2120a3ec-e184-4582-a2f9-56a7f28098f5</guid>
+            <pubDate>Sat, 20 Feb 2016 05:28:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
