@@ -1,6 +1,6 @@
 name: Shane Peters
 favicon: null
-layout_spectrum: 0.87584
+layout_spectrum: 1
 typography_spectrum: 0.53465
 title: 'Shane Peters, DP'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#161616'
     - '#d3c5a8'
   brandStrength: 0.3125
-  lightness: 0.4375
+  lightness: 0.375
   saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
