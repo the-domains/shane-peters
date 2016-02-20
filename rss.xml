@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Shane Peters, DP]]></title>
         <description><![CDATA[Shane Peters, DP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shane-peters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 05:30:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 12:15:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shane-peters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dawes Teaser]]></title>
+            <description><![CDATA[<article><h1>Dawes Teaser</h1><p>Qprime, a music management company from NY hired me spend a month at Echo Mountain Studios with the LA rock band DAWES, during the recording of their latest album, Stories Don't Tell. Principal photography was performed on a mixture of lo-fi and high quality cameras and lenses to create a loose, behind the scenes feel of the recording session.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47070a394dd81db24ba4675043ee2e0e2fc0bb49.jpg"></article>]]></description>
+            <link>https://vimeo.com/63875969</link>
+            <guid isPermaLink="false">b08c5cd2-a203-4447-b584-5cd134385dc8</guid>
+            <pubDate>Sat, 20 Feb 2016 12:15:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arizona "Don't Have The Body"]]></title>
-            <description><![CDATA[<article><h1>Arizona "Don't Have The Body"</h1><p>A music video for Arizona, directed by Hobey Ford and Shane Peters</p></article>]]></description>
+            <description><![CDATA[<article><h1>Arizona "Don't Have The Body"</h1><p>A music video for Arizona, directed by Hobey Ford and Shane Peters</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbdc54fe7ec529fbb770c6acefa3d8a0e70f7898.jpg"></article>]]></description>
             <link>https://vimeo.com/15746791</link>
             <guid isPermaLink="false">2120a3ec-e184-4582-a2f9-56a7f28098f5</guid>
             <pubDate>Sat, 20 Feb 2016 05:28:14 GMT</pubDate>
