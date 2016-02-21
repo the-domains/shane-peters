@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Shane Peters
-    url: 'http://vimeo.com/user1699220'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/63875969'
+inLanguage: en
+starred: true
 keywords:
   - session
   - album
@@ -21,7 +17,13 @@ keywords:
   - promos
   - lenses
 description: "Qprime, a music management company from NY hired me spend a month at Echo Mountain Studios with the LA rock band DAWES, during the recording of their latest album, Stories Don't Tell. Principal photography was performed on a mixture of lo-fi and high quality cameras and lenses to create a loose, behind the scenes feel of the recording session."
-inLanguage: en
+datePublished: '2016-02-21T12:33:14.978Z'
+dateModified: '2016-02-21T12:33:14.769Z'
+author:
+  - name: Shane Peters
+    url: 'http://vimeo.com/user1699220'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/63875969'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/63875969'
 title: Dawes Teaser
-datePublished: '2016-02-20T12:15:31.473Z'
-dateModified: '2016-02-20T11:54:10.047Z'
 sourcePath: _posts/2016-02-20-dawes-teaser.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
