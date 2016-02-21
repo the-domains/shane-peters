@@ -4,7 +4,7 @@
         <description><![CDATA[Shane Peters, DP]]></description>
         <link>https://thegrid.ai/shane-peters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 04:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 04:04:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shane-peters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Cape :30]]></title>
@@ -53,6 +53,13 @@
             <description><![CDATA[<article><h1>Time of My Life</h1><p>Starring and written by Tom Chalmers, this short film tells the story about an average man who finds his daily joy at his average job.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7726f3f1e7f45ae2a4ca4d5832cd7d3f90805617.jpg"></article>]]></description>
             <link>https://vimeo.com/10379246</link>
             <guid isPermaLink="false">50775c93-0dcd-4455-9515-21a3860b090c</guid>
+            <pubDate>Sat, 20 Feb 2016 12:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal Island]]></title>
+            <description><![CDATA[<article><h1>Royal Island</h1><p>This is "Royal Island" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2ac974f15474f4db4b42bb4a7e4ffd4285a5e9d.jpg"></article>]]></description>
+            <link>https://vimeo.com/10372110</link>
+            <guid isPermaLink="false">96863ff4-90f3-4f15-abf3-86ff51b80450</guid>
             <pubDate>Sat, 20 Feb 2016 12:40:45 GMT</pubDate>
         </item>
     </channel>
