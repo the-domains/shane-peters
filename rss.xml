@@ -4,7 +4,7 @@
         <description><![CDATA[Shane Peters, DP]]></description>
         <link>https://thegrid.ai/shane-peters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:42:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shane-peters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Cape :30]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/96846965</link>
             <guid isPermaLink="false">30f9b44f-e07f-4811-9b16-613fa6314539</guid>
             <pubDate>Sat, 20 Feb 2016 12:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Rock "Starve"]]></title>
+            <description><![CDATA[<article><h1>New Rock "Starve"</h1><p>Tom Chalmers is starving for some good Rock and Roll. Can he find it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/015f4cbfdc1e607cfa1b41c4cc676585ebca71f8.jpg"></article>]]></description>
+            <link>https://vimeo.com/15472309</link>
+            <guid isPermaLink="false">af075835-d9f0-4e84-bd87-d949a287a33d</guid>
+            <pubDate>Sun, 21 Feb 2016 03:41:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mr. Clean "Clean Getaway"]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/10372418</link>
             <guid isPermaLink="false">e8e4a9f4-11d4-49e1-b1d2-e31cd5285d0c</guid>
             <pubDate>Sat, 20 Feb 2016 12:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NewRock "Deal"]]></title>
-            <description><![CDATA[<article><h1>NewRock "Deal"</h1><p>Another one for New Rock 93.3. Craig Shroyer and Josh Batenhorst are found, once again, in some back alley in A'ville. For some reason I was there with a camera. DP and Editor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3f787665c4f8836fa0c9a2a33c9cf735da97183.jpg"></article>]]></description>
-            <link>https://vimeo.com/10374375</link>
-            <guid isPermaLink="false">3336e318-15b5-4ea6-8646-a2a07b4f2a05</guid>
-            <pubDate>Sat, 20 Feb 2016 12:33:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
