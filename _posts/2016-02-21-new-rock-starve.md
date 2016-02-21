@@ -51,8 +51,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/15472309'
 title: 'New Rock "Starve"'
-datePublished: '2016-02-21T03:39:54.031Z'
-dateModified: '2016-02-21T03:38:47.551Z'
+datePublished: '2016-02-21T03:41:26.049Z'
+dateModified: '2016-02-21T03:34:27.759Z'
 sourcePath: _posts/2016-02-21-new-rock-starve.md
 published: true
 inFeed: true
