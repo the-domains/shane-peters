@@ -4,7 +4,7 @@
         <description><![CDATA[Shane Peters, DP]]></description>
         <link>https://thegrid.ai/shane-peters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:44:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shane-peters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Cape :30]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/96846965</link>
             <guid isPermaLink="false">30f9b44f-e07f-4811-9b16-613fa6314539</guid>
             <pubDate>Sat, 20 Feb 2016 12:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arizona "Don't Have The Body"]]></title>
+            <description><![CDATA[<article><h1>Arizona "Don't Have The Body"</h1><p>A music video for Arizona, directed by Hobey Ford and Shane Peters</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbdc54fe7ec529fbb770c6acefa3d8a0e70f7898.jpg"></article>]]></description>
+            <link>https://vimeo.com/15746791</link>
+            <guid isPermaLink="false">243f7957-1e1a-4aec-998c-867179f54d53</guid>
+            <pubDate>Sun, 21 Feb 2016 03:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Rock "Starve"]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/10372110</link>
             <guid isPermaLink="false">96863ff4-90f3-4f15-abf3-86ff51b80450</guid>
             <pubDate>Sat, 20 Feb 2016 12:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Seabrookers "Colleen"]]></title>
-            <description><![CDATA[<article><h1>The Seabrookers "Colleen"</h1><p>Shot for Erwin Penland Advertising and Williamson Evans Words and Music to profile the residents if Seabrook Island, South Carolina. Meet Colleen...coffee talk low-country style. Oh Lar!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56f8717e771f15ed86de87fc1d6a136d29d55970.jpg"></article>]]></description>
-            <link>https://vimeo.com/10372418</link>
-            <guid isPermaLink="false">e8e4a9f4-11d4-49e1-b1d2-e31cd5285d0c</guid>
-            <pubDate>Sat, 20 Feb 2016 12:31:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
