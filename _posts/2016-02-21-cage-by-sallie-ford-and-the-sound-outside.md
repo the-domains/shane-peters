@@ -1,0 +1,65 @@
+---
+author:
+  - name: Shane Peters
+    url: 'http://vimeo.com/user1699220'
+    avatar: {}
+related: []
+publisher:
+  url: 'https://vimeo.com/'
+  name: Vimeo
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+  domain: vimeo.com
+keywords:
+  - ford
+  - editing
+  - hobey
+  - asheville
+  - cinematography
+  - bragg
+  - puppets
+  - grandma
+  - shane
+  - sallie
+description: 'A music vid for Sallie Ford and the Sound Outside from the new Album "Dirty Radio". Created by Hobey Ford (Concept, Direction, Puppets & Editing), David Bragg (Compositing, Effects work and Editing) and Shane Peters (Cinematography & Editing) in Asheville, NC.'
+inLanguage: en
+app_links:
+  - url: 'vimeo://app.vimeo.com/videos/24118257'
+    type: ios
+    namespace: ai
+    app_name: Vimeo
+    app_store_id: '425194759'
+  - should_fallback: 'true'
+    app_name: Vimeo
+    package: com.vimeo.android.videoapp
+    url: 'vimeo://app.vimeo.com/videos/24118257'
+    namespace: ai
+    type: web
+  - url: 'vimeo://app.vimeo.com/videos/24118257'
+    namespace: twitter
+    type: ipad
+    name: Vimeo
+    id: '425194759'
+  - url: 'vimeo://app.vimeo.com/videos/24118257'
+    namespace: twitter
+    type: iphone
+    name: Vimeo
+    id: '425194759'
+  - url: 'vimeo://app.vimeo.com/videos/24118257'
+    namespace: twitter
+    type: googleplay
+    name: Vimeo
+    id: com.vimeo.android.videoapp
+isBasedOnUrl: 'https://vimeo.com/24118257'
+title: Cage by Sallie Ford and the Sound Outside
+datePublished: '2016-02-21T12:13:41.513Z'
+dateModified: '2016-02-21T03:13:52.740Z'
+sourcePath: _posts/2016-02-21-cage-by-sallie-ford-and-the-sound-outside.md
+published: true
+inFeed: true
+hasPage: false
+inNav: false
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F24118257&amp;url=https%3A%2F%2Fvimeo.com%2F24118257&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F157686747_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
